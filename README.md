@@ -20,42 +20,13 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
 ---
 
 ## Tech Stack
-### Tech Stack
-<p>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" />
-  <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="26" />
-  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="26" />
-  <img alt="i18next" src="https://cdn.simpleicons.org/i18next/26A69A" height="26" />
-  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="26" />
+### Tech Stack <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" /> <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="26" /> <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="26" /> <img alt="i18next" src="https://cdn.simpleicons.org/i18next/26A69A" height="26" /> <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="26" />
 
 
 **Frontend:** React, Vite, Tailwind CSS, react-i18next, react-toastify, react-icons  
 **Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
 **Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)
 
-**Frontend:** React, Vite, Tailwind CSS, react-i18next, react-toastify, react-icons  
-  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=ffffff)
-![React Toastify](https://img.shields.io/badge/React_Toastify-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Icons](https://img.shields.io/badge/React_Icons-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
-  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=ffffff)
-![SMTP](https://img.shields.io/badge/SMTP-3B82F6?style=flat-square&logo=minutemailer&logoColor=ffffff)
-![IP rate-limiting](https://img.shields.io/badge/IP_rate%E2%80%91limiting-555555?style=flat-square)
-![CORS](https://img.shields.io/badge/CORS-555555?style=flat-square)
-
-**Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)  
-  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111111)
-![Porkbun (DNS/SSL)](https://img.shields.io/badge/Porkbun_(DNS%2FSSL)-FF6A8A?style=flat-square)
-
----
 
 ## Architecture Snapshot
 ```
