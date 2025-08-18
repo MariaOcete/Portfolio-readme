@@ -8,6 +8,8 @@
 A bilingual (EN/ES) portfolio showcasing my work as a **Full‑Stack Web Developer**.  
 Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django** API (secure contact form).
 
+---
+
 ## Tech Stack
 
 <p align="left">
