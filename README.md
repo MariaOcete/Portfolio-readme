@@ -19,7 +19,14 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
 
 ---
 
-## Tech Stack
+## Tech Stack <p>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
+  <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="32" />
+  <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32" />
+  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" />
+  <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32" />
+</p>
+
 **Frontend:** React, Vite, Tailwind CSS, react-i18next, react-toastify, react-icons  
 **Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
 **Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)
