@@ -19,7 +19,8 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
 
 ---
 
-## Tech Stack <p>
+## Tech Stack
+<p>
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
   <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="32" />
   <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32" />
