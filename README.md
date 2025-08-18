@@ -8,17 +8,6 @@
 A bilingual (EN/ES) portfolio showcasing my work as a **Full‑Stack Web Developer**.  
 Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django** API (secure contact form).
 
----
-
-## Highlights
-- ⚡ **Fast, clean UI** (React + Vite + Tailwind)
-- 🌍 **English/Spanish** via `react-i18next` (language preference persists)
-- 🔒 **Secure contact form** — reCAPTCHA v2, server verification, IP rate‑limit
-- ☁️ **Production deploys** — Vercel (frontend) + Render (API) on custom domain with SSL
-- 🔗 **SPA rewrites** — deep links like `/about`, `/projects`, `/contact` don’t 404
-
----
-
 ## Tech Stack
 
 <p align="left">
@@ -43,6 +32,17 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
 **Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
 **Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)
 
+
+---
+
+## Highlights
+- ⚡ **Fast, clean UI** (React + Vite + Tailwind)
+- 🌍 **English/Spanish** via `react-i18next` (language preference persists)
+- 🔒 **Secure contact form** — reCAPTCHA v2, server verification, IP rate‑limit
+- ☁️ **Production deploys** — Vercel (frontend) + Render (API) on custom domain with SSL
+- 🔗 **SPA rewrites** — deep links like `/about`, `/projects`, `/contact` don’t 404
+
+---
 
 ## Architecture Snapshot
 ```
