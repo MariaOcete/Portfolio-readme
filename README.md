@@ -1,6 +1,6 @@
-# María Ocete — Portfolio
+# María Ocete — Portfolio https://mariaocete.com  
 
-**Live:** https://mariaocete.com  
+ 
 **Email:** mariaocete93@gmail.com  
 **GitHub:** https://github.com/MariaOcete  
 **LinkedIn:** https://www.linkedin.com/in/maria-ocete-martin/  
