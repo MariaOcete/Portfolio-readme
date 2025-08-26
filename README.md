@@ -13,6 +13,17 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
 
 ## Tech Stack
 
+
+          
+   <img width="290" height="142" alt="imagen" src="https://github.com/user-attachments/assets/76037259-3b19-4749-8940-629f429f4bc3" />
+
+    
+
+
+**Frontend:** React, Vite, Tailwind CSS, react-i18next, react-toastify, react-icons  
+**Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
+**Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="28" />
   &nbsp;&nbsp;
@@ -26,16 +37,6 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" height="28" />
 </p>
-    
-
-
-**Frontend:** React, Vite, Tailwind CSS, react-i18next, react-toastify, react-icons  
-**Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
-**Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)
-
-
-          
-   <img width="290" height="142" alt="imagen" src="https://github.com/user-attachments/assets/76037259-3b19-4749-8940-629f429f4bc3" />
 
 ---
 
