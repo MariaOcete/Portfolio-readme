@@ -5,6 +5,7 @@
 **GitHub:** https://github.com/MariaOcete  
 **LinkedIn:** https://www.linkedin.com/in/maria-ocete-martin/  
 
+
 A bilingual (EN/ES) portfolio showcasing my work as a **Full‑Stack Web Developer**.  
 Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django** API (secure contact form).
 
@@ -26,14 +27,15 @@ Frontend built with **React + Vite + Tailwind**, talking to a minimal **Django**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" height="28" />
 </p>
     
-          
-          
 
 
 **Frontend:** React, Vite, Tailwind CSS, react-i18next, react-toastify, react-icons  
 **Backend (contact endpoint):** Django, SMTP email, IP rate‑limiting, CORS  
 **Infra:** Vercel (hosting/SSL), Render (API), Porkbun (DNS)
 
+
+          
+   <img width="290" height="142" alt="imagen" src="https://github.com/user-attachments/assets/76037259-3b19-4749-8940-629f429f4bc3" />
 
 ---
 
